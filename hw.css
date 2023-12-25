@@ -1,0 +1,76 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    text-align: center;
+    margin-top: center;
+}
+body{
+    background-color: #001c30
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(245, 255, 250);
+}
+.btn_b1{
+    background-color: #176b87;
+}
+.btn_b2{
+    background-color: #64ccc5;
+}
+.btn_b3{
+    background-color: #ff9eaa;
+}
+.btn_b4{
+    background-color: #dafffb;
+}
+.btn_b5{
+    background-color: #FFD0D0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+button{
+    cursor: pointer;
+    border-radius: .5em;
+    border: none;
+    padding: 1.4rem 1.4rem;
+    transition: .3s;
+    text-align: center;
+    flex-direction: column;
+
+}
+button:hover{
+    background-color: #001c30;
+}
+#a1{
+    width: 4.4rem;
+}
+#a2{
+    width: 6.8rem;
+}
+#a3{
+    width: 7.9rem;
+}
+#a5{
+    width: 5rem;
+}
+#a4{
+    width: 5rem;
+}
+ul{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+button{
+    margin: 5px;
+    flex-direction: column;
+}
